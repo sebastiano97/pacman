@@ -1,0 +1,7 @@
+C:\Users\sebex\source\repos\pacman\pacman\bin\Debug\pacman.exe.config
+C:\Users\sebex\source\repos\pacman\pacman\bin\Debug\pacman.exe
+C:\Users\sebex\source\repos\pacman\pacman\bin\Debug\pacman.pdb
+C:\Users\sebex\source\repos\pacman\pacman\obj\Debug\pacman.csprojAssemblyReference.cache
+C:\Users\sebex\source\repos\pacman\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+C:\Users\sebex\source\repos\pacman\pacman\obj\Debug\pacman.exe
+C:\Users\sebex\source\repos\pacman\pacman\obj\Debug\pacman.pdb
